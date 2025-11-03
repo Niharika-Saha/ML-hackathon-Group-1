@@ -1,5 +1,5 @@
 # ML-hackathon-Group-1
-# Hangman AI Project - File Structure Guide
+# Hackman AI Project - File Structure Guide
 
 ## Project Overview
 This project implements AI agents for playing Hangman using Hidden Markov Models (HMM) and Reinforcement Learning (RL) approaches. The system evolves from basic HMM to hybrid models combining multiple techniques.
