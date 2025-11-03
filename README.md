@@ -38,7 +38,7 @@ Key Features:
 - Curriculum learning for RL training
 - Multi-agent comparison and evaluation
 
-### 3. hmm_(4)(1).ipynb
+### 3. hmm_hybrid_final_best.ipynb
 Level: Final Implementation  
 Description: Most refined and optimized version of the Hangman AI system
 - Incorporates lessons learned from previous implementations
